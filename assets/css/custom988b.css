@@ -1,0 +1,48 @@
+/* Custom CSS for hover effect */
+.dropdown:hover .dropdown-menu {
+    display: block;
+}
+
+div#noticeTable_filter {
+    display: none;
+}
+div#noticeTable_paginate {
+    text-align: left;
+    padding-top: 22px;
+}
+#bs-example-navbar-collapse-1 {
+    background-color: #fafafa;
+    font-size: 16px;
+}
+#nav .navbar-default .navbar-nav > li > a {
+    color: #ff6600;
+}
+#nav .navbar-collapse {
+    border-bottom: 1px solid #4574be;
+}
+.scrool_2 {
+    padding-bottom: 0px!important;
+    background: #EDEDED!important;
+    font-size: 16px!important;
+}
+
+.centered {
+    top: 96%;
+    width: 100%;
+    background: black;
+    padding: 10px;
+    border-radius: 5px;
+    opacity: 0.6;
+    text-align: center;
+}
+
+div#routineTable_filter {
+    display: none;
+}
+
+
+
+
+div#lectureTable_filter {
+    display: none;
+}
